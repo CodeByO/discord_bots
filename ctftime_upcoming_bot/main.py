@@ -5,7 +5,7 @@ from os import getenv
 from dotenv import load_dotenv
 # ctftime.org upcoming 대회 정보 파싱
 # [TODO] 여러번 동시 요청시 중복되는 대회 필터링 기능 추가
-
+# [TODO] ctftime.org api 사용해서 다시 구현해보기
 
 
 load_dotenv(verbose=True)
